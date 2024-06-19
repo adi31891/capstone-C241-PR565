@@ -10,4 +10,6 @@ COPY . .
 
 EXPOSE 3000
 
+MODEL_URL='https://storage.googleapis.com/test-model-elemental/model_lstm1.json'
+
 CMD ["npm", "start"]
