@@ -20,13 +20,13 @@ The rising need for accessible physical and mental health support, coupled with 
 
 Let us introduce you to the masterminds behind this groundbreaking project. Each team member brings their unique expertise, unwavering dedication, and a shared passion for making a real impact.
 
-|            Member                  | Bangkit ID |        Path        |                                                       Contacts                                                      |
-| :--------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Timoteus Romi Hasoloan Simanjuntak | M2195F1854 | Mobile Development |           [LinkedIn]() or [Github]()           |
-|         Naily Syafaaturohmah       | M2224W2059 |  Machine Learning  |   [LinkedIn]() or [Github]()  |
-|               Vincent              | A7006H0543 |  Machine Learning  |             [LinkedIn]() or [Github]()             |
-|        Billy Achmad Bachrudin      | C2014J1378 |   Cloud Computing  |            [LinkedIn]() or [Github]()            |
-|      Naufal Adi Prawira Siregar    | C2224W2085 |   Cloud Computing  | [LinkedIn]() or [Github]() |
+|            Member                  | Bangkit ID |        Path        |            Contacts              |
+| :--------------------------------: | :--------: | :----------------: | :------------------------------: |
+| Timoteus Romi Hasoloan Simanjuntak | M2195F1854 | Mobile Development |           [LinkedIn]()           |
+|         Naily Syafaaturohmah       | M2224W2059 |  Machine Learning  |           [LinkedIn]()           |
+|               Vincent              | A7006H0543 |  Machine Learning  |           [LinkedIn]()           |
+|        Billy Achmad Bachrudin      | C2014J1378 |   Cloud Computing  |           [LinkedIn]()           |
+|      Naufal Adi Prawira Siregar    | C2224W2085 |   Cloud Computing  |           [LinkedIn]()           |
 
 ## 🚀 Project Branches
 
