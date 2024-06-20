@@ -10,11 +10,11 @@ Hello there! 👋 Welcome to the wonderful world of team C241-PR565! Here at Tea
 
 ## 🐘 Project Overview
 
-Our project combines the power of computer vision, machine learning, and e-commerce to create an extraordinary solution for fruit lovers and enthusiasts. With our innovative mobile application, you can simply take a photo of a fruit, and our intelligent algorithms will identify it instantly. Not only that, but you can also explore a wide variety of fresh fruits available for purchase through our integrated e-commerce platform.
+EleMental is a Health Chatbot with Personalized Coping Techniques. This project proposes an android application featuring a physical and mental health chatbot powered by machine learning. The chatbot will offer anonymous support, identify user daily habits, emotions through analysis, and suggest personalized techniques and tips based on the analysis. This application aims to improve accessibility to health resources and empower users to manage their well-being.
 
 ## 🌍 Why It Matters
 
-In today's fast-paced world, people are becoming increasingly conscious of their health and nutrition. By providing an easy way to identify and access fresh fruits, our project aims to promote healthy eating habits and make it easier for individuals to incorporate nutritious fruits into their daily lives. We believe that a well-informed consumer is an empowered consumer, and our solutions empower people to make healthier and more informed choices.
+The rising need for accessible physical and mental health support, coupled with the advancements in machine learning and conversational AI, inspired this project. We believe a chatbot app with personalized techniques can bridge the gap in mental health services.
 
 ## 👥 Meet Our Extraordinary Team
 
@@ -32,18 +32,11 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 
 We've divided our project into distinct branches to ensure smooth development and organization. Here's a glimpse into each branch:
 
-- **Machine Learning:** This branch focuses on developing the cutting-edge chat-bot and machine learning algorithms that enable fruit identification from images
+- **Machine Learning:** This branch focuses on building the advanced chatbot that uses conversation and machine learning to understand and respond to your mental health needs.
 - **Mobile Android Development:** Here, we're crafting an intuitive and user-friendly Android application for our project.
-- **Cloud Computing:** In this branch, you'll find the powerful backend code that enables seamless communication and data processing.
+- **Cloud Computing:** This branch deals with the powerful code running behind the scenes. It ensures smooth communication between you and the chatbot, along with secure data processing.
 
 ## 🤝 Get Involved
 
 We welcome collaboration and contributions from the community! Whether you're a developer, domain expert, or simply intrigued by our project, we'd love to hear from you. Join us on our mission to revolutionize agriculture and make a positive impact on our world!
 
-## 📞 Contact Us
-
-Have questions, ideas, or just want to say hello? Reach out to us through the following channels:
-
-- Email: fruitarians.bangkit@gmail.com
-
-Let's embark on this fruitful journey together! 🍓🍍🥭✨
